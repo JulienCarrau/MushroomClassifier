@@ -1,8 +1,8 @@
 # MushroomClassifier
-A Support Vector Machine (SVM) classifier built with Scikit-learn.
+A K-Neighbors classifier built with Scikit-learn.
 
 ## Model hyperparameters
-*C* = 1 and *gamma* = 1.
+*n_neighbors* = 2.
 
 ## Packages used
 Numpy, pandas, scikit-learn.
